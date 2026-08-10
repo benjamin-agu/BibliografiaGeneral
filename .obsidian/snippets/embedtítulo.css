@@ -1,0 +1,4 @@
+/* Oculta el título de la nota embebida */
+.markdown-embed-title {
+    display: none;
+}

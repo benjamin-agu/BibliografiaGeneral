@@ -1,0 +1,9 @@
+{
+  "accentColor": "#90d5ff",
+  "cssTheme": "Typomagical",
+  "theme": "system",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "embedtítulo"
+  ]
+}

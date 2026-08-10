@@ -1,0 +1,25 @@
+/*
+  Versión corregida para asegurar el uso del color de acento del tema.
+*/
+
+:root {
+  /* Intentamos usar la variable de color de acento más común.
+     Si falla, usamos la variable interactive-accent. */
+  --custom-highlight-color: var(--color-accent
+
+.markdown-preview-view mark,
+.markdown-source-view.mod-cm6 .cm-highlight {
+  background-color: var(--custom-highlight-color);
+  opacity: 0.5; 
+  border-radius: 4px; 
+  
+  /* Asegura que el texto sobre el acento sea legible */
+  color: var(--text-on-accent); 
+
+  padding: 2px 4px;
+  box-shadow: none; 
+}
+
+.markdown-preview-view mark {
+  text-decoration: none;
+}

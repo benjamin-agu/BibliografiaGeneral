@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "b4f147168e7f6560",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae033ba51089991c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b5bb4f316d7d7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "146b497197eee6ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e828acf59659422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2baa4307c8b2109d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "873bf8e21929d010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"Materia\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9fd1878df4881f03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0d9afda26e0df3e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7191aca308ca59d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda20bd9ce5b3162",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "Propiedades del archivo"
+            }
+          },
+          {
+            "id": "bc628575f8cd7126",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BIBLIOGRAFÍA GENERAL/El retablo de las maravillas.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de El retablo de las maravillas"
+            }
+          },
+          {
+            "id": "8f02c6e282ad5a0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3a1d33328d1abb21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BIBLIOGRAFÍA/LITERATURA/CUENTOS/Tres versiones de Judas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tres versiones de Judas"
+            }
+          },
+          {
+            "id": "52a1b9c79b92e2aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BIBLIOGRAFÍA/LITERATURA/CUENTOS/Tres versiones de Judas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tres versiones de Judas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "fea1d050027df3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "72beca57347e32ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cca5ea0019c9438",
+            "type": "leaf",
+            "state": {
+              "type": "highlights-sidebar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "highlights-sidebar"
+            }
+          },
+          {
+            "id": "d2a9cefbaed357b3",
+            "type": "leaf",
+            "state": {
+              "type": "sidenote-view",
+              "state": {
+                "filePath": "BIBLIOGRAFÍA GENERAL/Macario (Rulfo, 1953).md"
+              },
+              "icon": "message-square",
+              "title": "Side Note"
+            }
+          },
+          {
+            "id": "29ec9d96460e5e58",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "BIBLIOGRAFÍA GENERAL/Macario (Rulfo, 1953).md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas al pie"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota al azar": false,
+      "bases:Crear nueva base": false,
+      "sidebar-highlights:Open highlights": false,
+      "side-note:Side Note: Open in Sidebar": false
+    }
+  },
+  "active": "2baa4307c8b2109d",
+  "lastOpenFiles": [
+    "shh.txt.pub",
+    "shh.txt",
+    "BIBLIOGRAFÍA GENERAL/Братья Карамазовы.md",
+    "BIBLIOGRAFÍA GENERAL/Mensagem à poesia (Moraes, ).md",
+    "BIBLIOGRAFÍA GENERAL/Ya sé por qué es.md",
+    "BIBLIOGRAFÍA GENERAL/Бессонница. Гомер. Тугие паруса... (Ósip Mandelshtam, 1915).md",
+    "BIBLIOGRAFÍA GENERAL/Last blues, to be read some day (Pavese, 1950).md",
+    "BIBLIOGRAFÍA GENERAL/La vida de Lazarillo de Tormes y de sus fortunas y adversidades.md",
+    "BIBLIOGRAFÍA GENERAL/Grapes of Wrath.md",
+    "BIBLIOGRAFÍA GENERAL/El clavo (Abril, 1997).md",
+    "BIBLIOGRAFÍA GENERAL/Definiendo  el amor.md",
+    "BIBLIOGRAFÍA GENERAL/1955.md",
+    "BIBLIOGRAFÍA GENERAL/¡Ay del Triste!.md",
+    "CRESTOMATÍA VIEJA/Sin título.md",
+    "BIBLIOGRAFÍA GENERAL/El retablo de las maravillas.md",
+    "BIBLIOGRAFÍA GENERAL/Romeo and Juliet.md",
+    "BIBLIOGRAFÍA GENERAL/Phèdre.md",
+    "BIBLIOGRAFÍA GENERAL/Sopra il monumento di Danteche si preparava In Firenze (Canto II) (Leopardi, 1818).md",
+    "BIBLIOGRAFÍA GENERAL/Venetus A.md",
+    "BIBLIOGRAFÍA GENERAL/No oyes ladrar a los perros.md",
+    "BIBLIOGRAFÍA GENERAL/Stille, mein wille.md",
+    "BIBLIOGRAFÍA GENERAL/Clarissa; or, the story of a lady.md",
+    "BIBLIOGRAFÍA GENERAL/The Little Black Boy.md",
+    "BIBLIOGRAFÍA GENERAL/The Most Dangerous Game.md",
+    "BIBLIOGRAFÍA GENERAL/The Tell-Tale Heart.md",
+    "BIBLIOGRAFÍA GENERAL/Смерть Ивана Ильича.md",
+    "BIBLIOGRAFÍA GENERAL/Der Prozess.md",
+    "CRESTOMATÍA VIEJA",
+    "Sin título.base",
+    "Untitled.canvas",
+    "LITERATURA POR REVISAR",
+    "BIBLIOGRAFÍA GENERAL",
+    "MISCELÁNEA/POEMAS.base",
+    "IMÁGENES/Miguel de Unamuno, 1925.jpg",
+    "Users/benjaminsilva",
+    "Users",
+    "A.Brighter.Summer.Day.1991.CHINESE.1080p.BluRay.REMUX.AVC.LPCM.1.0-RARBG.mp4",
+    "IMÁGENES/adarga.jpg",
+    "IMÁGENES/molinosdeviento.png",
+    "IMÁGENES/Pasted image 20251113162503.png",
+    "IMÁGENES/Pasted image 20251113160822.png",
+    "IMÁGENES/Pasted image 20251113160801.png",
+    "BIBLIOGRAFÍA/REFERENCIA/The Princeton Encyclopedia of Poetry and Poetics.pdf",
+    "Notion/NOTION IMAGES/y-tu-mama-tambien-2001-3731061295.jpg",
+    "Notion/NOTION IMAGES/Притча_о_слепых.jpg",
+    "Notion/NOTION IMAGES/Братья Карамазовы.jpeg",
+    "Notion/NOTION IMAGES/west-pediment-temple-of-zeus-olympia-423.jpg"
+  ]
+}
