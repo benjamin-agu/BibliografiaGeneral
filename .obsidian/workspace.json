@@ -11,10 +11,14 @@
             "id": "f9b5bb4f316d7d7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BIBLIOGRAFÍA GENERAL/¡Ay del Triste!.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "¡Ay del Triste!"
             }
           }
         ]
@@ -97,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "BIBLIOGRAFÍA GENERAL/¡Ay del Triste!.md"
+              },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
@@ -212,14 +218,23 @@
               "icon": "lucide-file-signature",
               "title": "Notas al pie"
             }
+          },
+          {
+            "id": "236dccbdaf6f16a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +246,8 @@
       "random-note:Abrir nota al azar": false,
       "bases:Crear nueva base": false,
       "sidebar-highlights:Open highlights": false,
-      "side-note:Side Note: Open in Sidebar": false
+      "side-note:Side Note: Open in Sidebar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2baa4307c8b2109d",
