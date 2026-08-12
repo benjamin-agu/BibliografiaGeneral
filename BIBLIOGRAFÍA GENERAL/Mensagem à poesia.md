@@ -1,3 +1,7 @@
+---
+Autor:
+  - Vinicius de Moraes
+---
 # MENSAGEM À POESIA
 
 Não posso  

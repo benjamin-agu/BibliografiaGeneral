@@ -1,4 +1,8 @@
-# LA VIDA RETIRADA
+---
+Autor:
+  - Luis de León
+---
+# La vida retirada
 
 ¡Qué descansada vida  
 la del que huye el mundanal ruido  

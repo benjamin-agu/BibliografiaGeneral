@@ -1,3 +1,7 @@
+---
+Autor:
+  - John Steinbeck
+---
 
 
 # EAST OF EDEN

@@ -1,4 +1,10 @@
-#  SOPRA IL MONUMENTO DI DANTE CHE SI PREPARAVA IN FIRENZE
+---
+Autor:
+  - Giacomo Leopardi
+Año:
+  - "1818"
+---
+#  Sopra il monumento di Danteche si preparava In Firenze
 
 Perchè le nostre genti  
 Pace sotto le bianche ali raccolga,  

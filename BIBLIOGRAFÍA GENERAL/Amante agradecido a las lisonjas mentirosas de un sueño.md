@@ -2,7 +2,7 @@
 Autor:
   - Francisco de Quevedo
 ---
-# AMANTE AGRADECIDO A LAS LISONJAS MENTIROSAS DE UN SUEÑO
+# Amante agradecido a las lisonjas mentirosas de un sueño
 
 ¡Ay, Floralba! Soñé que te... ¿Dirélo?  
 Sí, pues que sueño fue: que te gozaba.  

@@ -2,7 +2,7 @@
 Autor:
   - León Felipe
 ---
-# CÓMO HA DE SER TU VOZ
+# Cómo ha de ser tu voz
 
 Ten una voz, mujer,  
 que pueda  

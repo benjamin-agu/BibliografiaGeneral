@@ -1,3 +1,9 @@
+---
+Autor:
+  - Honoré de Balzac
+Año:
+  - "1836"
+---
 # LA MESSE DE L’ATHÉE.
 
 

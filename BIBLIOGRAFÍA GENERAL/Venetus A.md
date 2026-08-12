@@ -1,10 +1,4 @@
-File generated October 5, 2023
-
-Texts are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License.
-
-Homer Multitext project edition of Venetus A manuscript
-
-Venetus A (Marciana 454 = 822), folio 12, recto
+# Venetus A (Marciana 454 = 822), folio 12, recto
 
 Iliad 1.title-1.25
 

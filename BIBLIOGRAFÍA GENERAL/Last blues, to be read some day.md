@@ -1,4 +1,10 @@
-# LAST BLUES, TO BE READ SOME DAY
+---
+Autor:
+  - Cesare Pavese
+Año:
+  - "1950"
+---
+# Last Blues, to Be Read Some Day
 
 'T was only a flirt  
 you sure did know –  

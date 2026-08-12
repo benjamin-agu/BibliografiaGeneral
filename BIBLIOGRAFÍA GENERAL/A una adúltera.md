@@ -2,7 +2,7 @@
 Autor:
   - Francisco de Quevedo
 ---
-# A UNA ADÚLTERA
+# A una adúltera
 
 Sólo en ti, Lesbia, vemos que ha perdido  
 el adulterio la vergüenza al cielo,  

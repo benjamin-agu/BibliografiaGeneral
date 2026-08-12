@@ -4,7 +4,7 @@ Autor:
 Año:
   - "1933"
 ---
-# AMOR
+# Amor
 
 Amar es este tímido silencio  
 cerca de ti, sin que lo sepas,  

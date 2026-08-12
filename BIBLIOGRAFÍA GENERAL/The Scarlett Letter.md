@@ -1,8 +1,10 @@
 ---
 Autor:
   - Nathaniel Hawthorne
+Año:
+  - "1850"
 ---
-# THE  SCARLET LETTER.
+# The Scarlett Letter
 
 ## PREFACE TO THE SECOND EDITION.
 

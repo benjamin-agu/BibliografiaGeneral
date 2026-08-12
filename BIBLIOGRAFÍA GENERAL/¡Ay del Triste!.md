@@ -3,7 +3,7 @@ Autor:
   - José Zorrilla
 Año:
 ---
-## ¡AY DEL TRISTE!
+# ¡Ay del triste!
 
 ¡Ay del triste que consume  
 su existencia en esperar!  
