@@ -1,3 +1,9 @@
+---
+Autor:
+  - René Char
+Año:
+  - "1926"
+---
 # SILLAGE NOIR
 
 Au recueil du couchant sonore  
