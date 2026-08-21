@@ -5,4 +5,4 @@ But drowning could be rescued from the flame,
 Some men leap'd forth, and ever as they came  
 Near the foes' ships, did by their shot decay;  
 So all were lost, which in the ship were found,  
-      They in the sea being burnt, they in the burnt ship drown'd. 
+They in the sea being burnt, they in the burnt ship drown'd. 
