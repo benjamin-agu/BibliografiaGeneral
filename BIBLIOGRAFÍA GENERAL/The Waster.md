@@ -17,24 +17,24 @@ Of the things no fellow can do.
 (They are not so strict with the average Pict  
 And it isn’t set to, etc.) 
 
-For this and not for the profit it brings
-Or the good of his fellow-kind
-He is and suffers unspeakable things
-In body and soul and mind.
- But the net result of that Primitive Cult,
-Whatever else may be won,
- Is definite knowledge ere leaving College
-    Of the Things that Are Never Done.
- (An interdict which is strange to the Pict
-    And was never revealed to, etc.) 
+For this and not for the profit it brings  
+Or the good of his fellow-kind  
+He is and suffers unspeakable things  
+In body and soul and mind.  
+But the net result of that Primitive Cult,  
+Whatever else may be won,  
+Is definite knowledge ere leaving College  
+Of the Things that Are Never Done.  
+(An interdict which is strange to the Pict  
+And was never revealed to, etc.) 
 
 Slack by training and slow by birth,
-    Only quick to despise,
- Largely assessing his neighbour’s worth
-    By the hue of his socks or ties,
- A loafer-in-grain, his foes maintain,
-    And how shall we combat their view
- When, atop of his natural sloth, he holds
-    There are Things no Fellow can do?
- (Which is why he is licked from the first by the Pict
-    And left at the post by, etc.)
+Only quick to despise,
+Largely assessing his neighbour’s worth
+By the hue of his socks or ties,
+A loafer-in-grain, his foes maintain,
+And how shall we combat their view
+When, atop of his natural sloth, he holds
+There are Things no Fellow can do?
+(Which is why he is licked from the first by the Pict
+And left at the post by, etc.)
